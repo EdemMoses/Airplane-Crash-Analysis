@@ -71,5 +71,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 For any questions or feedback, please open an issue in the repository or contact me at edemaggor@gmail.com.
 
-Thank you for using the Game Analysis project! Happy analyzing!
+Thank you for using the Airplane Crash Analysis project! Happy analyzing!
 
